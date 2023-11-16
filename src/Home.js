@@ -132,7 +132,7 @@ export default function Example() {
                 href="/Product"
                 className="rounded-md bg-blue-800 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >
-                Shop Now!
+                Shop now!
               </a>
             </div>
           </div>
