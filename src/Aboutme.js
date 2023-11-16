@@ -56,7 +56,7 @@ const Aboutme = () => {
           </dl>
         </div>
       </div>
-      <footer className='App-footer' class='h-10 block pt-32 pb-0'>
+      <footer className='App-footer' class='h-0 block pt-32 pb-0' style={{ marginTop: '20px' }}>
         <Footer />
       </footer>
     </div>
