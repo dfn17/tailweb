@@ -27,9 +27,9 @@ const Aboutme = () => {
       <div className="flex-1">
         <div className="border-t border-gray-200 bg-opacity-40 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 text-gray-900">
           <dl className="space-y-4">
-            <div className="sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
+            <div className="px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
               <dt className="text-base font-semibold leading-7 text-indigo-600" style={{ fontSize: '0.8rem' }}>Full name</dt>
-              <dd className="mt-1 text-sm sm:mt-0 sm:col-span-2" style={{ fontSize: '1rem' }}>
+              <dd className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2" style={{ fontSize: '1rem' }}>
                 Dimas Fariz Nugroho
               </dd>
             </div>
