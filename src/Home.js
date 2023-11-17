@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+import Navbar from './Navbar';
 import Footer from './Footer';
 import backgroundImage from './images/back-school-concept-with-school-supplies.jpg';
 
