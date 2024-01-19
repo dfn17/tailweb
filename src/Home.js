@@ -14,6 +14,7 @@ const navigation = [
 
 export default function Example() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const currentYear = new Date().getFullYear();
 
   return (
     <div className="h-full"
@@ -151,7 +152,7 @@ export default function Example() {
         </div>
       </div>
       <footer className='App-footer' class='h-0 block pt-32 pb-0' style={{ marginTop: '60px' }}>
-        <Footer />
+        <Footer copyrightYear='2024' />
       </footer>
     </div>
   )
